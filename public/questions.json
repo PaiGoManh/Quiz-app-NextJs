@@ -1,0 +1,52 @@
+[
+  {
+      "question": "What is blockchain?",
+      "options": ["A type of cryptocurrency", "A digital ledger", "A programming language", "An operating system"],
+      "correctAnswer": "A digital ledger"
+  },
+  {
+      "question": "Which of the following is a key feature of blockchain?",
+      "options": ["Centralization", "Mutability", "Transparency", "Privacy"],
+      "correctAnswer": "Transparency"
+  },
+  {
+      "question": "Who is credited with inventing Bitcoin, the first cryptocurrency?",
+      "options": ["Vitalik Buterin", "Satoshi Nakamoto", "Charlie Lee", "Hal Finney"],
+      "correctAnswer": "Satoshi Nakamoto"
+  },
+  {
+      "question": "What does 'decentralization' mean in the context of blockchain?",
+      "options": ["Data is stored in a central location", "Control is distributed across multiple nodes", "All data is encrypted", "Transactions are anonymous"],
+      "correctAnswer": "Control is distributed across multiple nodes"
+  },
+  {
+      "question": "Which consensus algorithm is commonly used by Bitcoin?",
+      "options": ["Proof of Stake", "Proof of Work", "Delegated Proof of Stake", "Byzantine Fault Tolerance"],
+      "correctAnswer": "Proof of Work"
+  },
+  {
+      "question": "What is a smart contract?",
+      "options": ["A physical contract stored on blockchain", "A self-executing contract with terms directly written into code", "A type of cryptocurrency", "A blockchain fork"],
+      "correctAnswer": "A self-executing contract with terms directly written into code"
+  },
+  {
+      "question": "Which blockchain platform is known for supporting smart contracts?",
+      "options": ["Bitcoin", "Ethereum", "Litecoin", "Ripple"],
+      "correctAnswer": "Ethereum"
+  },
+  {
+      "question": "What is a 'block' in blockchain?",
+      "options": ["A unit of cryptocurrency", "A record of a single transaction", "A record containing multiple transactions", "A type of blockchain consensus algorithm"],
+      "correctAnswer": "A record containing multiple transactions"
+  },
+  {
+      "question": "What is a 'node' in blockchain?",
+      "options": ["A central server", "A participant in the network", "A type of blockchain", "A unit of cryptocurrency"],
+      "correctAnswer": "A participant in the network"
+  },
+  {
+      "question": "What is a 'hash' in blockchain?",
+      "options": ["A type of cryptocurrency", "A function that converts an input into a fixed-size string of bytes", "A block containing transactions", "A blockchain fork"],
+      "correctAnswer": "A function that converts an input into a fixed-size string of bytes"
+  }
+]
